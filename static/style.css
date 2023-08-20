@@ -1,0 +1,85 @@
+body {
+  background-color: #f6fbf4;
+  background-image: url("images/back4.png");
+  background-repeat: repeat;
+}
+
+.logo {
+  width: 13em;
+  height: 63px;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h1 strong {
+  font-weight: 600;
+  color: #006666;
+}
+
+.inputstyle {
+  padding: 20px !important;
+}
+
+.whoop {
+   background-color: #404040;
+   color: #ffff;
+   font-family: sans-serif;
+   font-weight: bolder;
+   font-size: 3rem;
+   letter-spacing: 3px;
+   cursor: grabbing;
+   border-radius: 8%;
+   box-shadow: 0 0 10px black, 0 0 10px black;
+   text-shadow: 0 0 1px #fff;
+   overflow: hidden;
+   transition: 0.2s;
+}
+
+.caloriescont {
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.caloriescont ul {
+  padding: 0px;
+}
+
+.caloriescont ul li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  width: 80%;
+}
+
+.caloriescont h3 {
+  color: #4b8673;
+  font-size: 2em;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.caloriescont h5 {
+  color: #006666;
+}
+
+.servingsize {
+  background-color: #000000;
+  padding: 10px;
+  color: #ffffff;
+}
+
+
+.col-md-8{
+    align-items: center;
+    justify: center;
+}
+
+.title111{
+        text: 'NSU CAFETERIA'
+        font-size: 5rem;
+        color: #660033;
+        font-weight: bolder;
+        transition: 2s;
+}
